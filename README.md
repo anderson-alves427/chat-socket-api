@@ -1,3 +1,7 @@
+## Descrição
+
+Api criada com o objetivo de testar troca de informações utilizando websocket.
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
